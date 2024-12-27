@@ -7,4 +7,4 @@ Virtual reality (VR) technologies are continuously being adopted as training sys
 
 ## 2. The Neuromechanics of a Haptic Influenced Virtual Reality Interaction
 ### Summary of the Work:
-![alt text](Haptic Influenced Virtual Reality Interaction.png)
+![alt text](Haptic_Influenced_Virtual_Reality_Interaction.png)
