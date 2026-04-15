@@ -1,4 +1,4 @@
-# Neuromechanics-of-Interaction
+# Neuromechanics-of-Object-Manipulation
 
 ## 1. The Neuromechanics of a Haptic Free Virtual Reality Interaction Vs. The Physical World 
 ### Summary of the Work:
